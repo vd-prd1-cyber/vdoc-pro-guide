@@ -1,8 +1,6 @@
 [![GitBook](https://img.shields.io/badge/GitBook-문서보기-blue)](https://v-doc-pro-guide.gitbook.io/vd-prd-docs)
 
-# 브이닥 프로 알아보기
-
-## V.Doc Pro란?
+# V.Doc Pro란?
 
 V.Doc Pro는 **의료진의 진료를 직접적으로 보조하는 진료실 AI 솔루션**입니다.\
 사전문진부터 차팅, 환자 케어 가이드 발송까지, 진료 전 과정에서 반복적인 업무 부담을 줄이고 **진료의 질과 업무 효율성을 함께 높여드립니다.**
