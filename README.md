@@ -1,4 +1,4 @@
-[![GitBook](https://img.shields.io/badge/GitBook-문서보기-blue)](https://vd-prd1-cyber.gitbook.io/vdoc-pro-guide)
+[![GitBook](https://img.shields.io/badge/GitBook-문서보기-blue)](https://v-doc-pro-guide.gitbook.io/vd-prd-docs)
 
 # 브이닥 프로 알아보기
 
