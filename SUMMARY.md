@@ -32,7 +32,7 @@
 * [진료 전 사전 문진(환자용)](features/questionnaire.md)
 * [AI 사전 문진 요약](features/ai-summary.md)
 * [진료 중 녹음 · STT](features/stt.md)
-* [진료 후 템플릿](features/template.md)
+* [진료 후 맞춤 템플릿 발송](features/template.md)
 
 ## 주요 메뉴 알아보기
 
