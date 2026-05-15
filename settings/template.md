@@ -59,4 +59,4 @@
 관리자가 설정한 병원 전체 공용 템플릿은 모든 의료진이 사용할 수 있습니다.\
 공용 템플릿 관리는 관리자 권한이 필요합니다.
 
-→ [템플릿 관리 (관리자)](../undefined-7/template-management.md)
+→ [템플릿 관리 (관리자)](../admin/template-management.md)

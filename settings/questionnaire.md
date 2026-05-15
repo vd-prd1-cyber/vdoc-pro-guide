@@ -4,7 +4,7 @@
 
 {% hint style="info" %}
 사전문진 항목의 추가·수정·삭제는 **관리자 권한**이 필요합니다.\
-자세한 설정은 [문진 설정 (관리자)](../undefined-7/questionnaire-settings.md)를 참고하세요.
+자세한 설정은 [문진 설정 (관리자)](../admin/questionnaire-settings.md)를 참고하세요.
 {% endhint %}
 
 ***
