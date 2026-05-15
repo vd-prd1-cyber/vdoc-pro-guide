@@ -30,10 +30,7 @@ AITRICS 담당자가 아래 정보를 시스템에 등록합니다.
 
 ### STEP 4. EMR 연동 설정
 
-| 연동 방식      | 설명                                           |
-| ---------- | -------------------------------------------- |
-| **API 연동** | 병원 EMR과 V.Doc Pro 자동 연동 (환자 정보, 예약 정보 자동 반영) |
-| **수동 방식**  | EMR 연동 없이 V.Doc Pro 단독 운영 (환자 직접 등록)         |
+<table><thead><tr><th width="171.7890625">연동 방식</th><th>설명</th></tr></thead><tbody><tr><td><strong>API 연동</strong></td><td>병원 EMR과 V.Doc Pro 자동 연동 (환자 정보, 예약 정보 자동 반영)</td></tr><tr><td><strong>수동 방식</strong></td><td>EMR 연동 없이 V.Doc Pro 단독 운영 (환자 직접 등록)</td></tr></tbody></table>
 
 {% hint style="warning" %}
 연동 가능한 EMR 목록은 도입 상담 시 확인해 드립니다. 목록에 없는 EMR도 API 방식으로 연동 개발이 가능합니다.
