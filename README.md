@@ -1,65 +1,76 @@
 ---
-description: V.Doc Pro에 오신 걸 환영합니다! 🎉
+description: AITRICS의 AI 클리니컬 코파일럿 V.Doc Pro의 공식 사용 가이드입니다.
 ---
 
-# V.Doc Pro 알아보기
+# V.Doc Pro 사용 가이드
 
 {% hint style="info" %}
-V.Doc Pro 콘솔, 가이드 모두 **크롬 브라우저에 최적화**되어 있습니다. 크롬 브라우저로 이용해 주세요.
+V.Doc Pro 콘솔과 가이드는 **크롬 브라우저에 최적화**되어 있습니다. 크롬 브라우저로 이용해 주세요.
 {% endhint %}
 
-## V.Doc Pro란?
+***
 
-V.Doc Pro는 진료 전·중·후를 하나로 연결하는 **AI 클리니컬 코파일럿**입니다.\
-AITRICS의 MOCA 엔진이 임상 현장에서 의사의 진료를 지원합니다.
+## # 도입 안내
 
-| 지표 | 수치 |
-|------|------|
-| 실세계 진단 정확도 | **84.6%** |
-| 도입 병원 | **170+** |
-| 지원 진료과 | **11개** |
-| 임상 AI 헤리티지 | **10년** |
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>브이닥 프로란?</td><td><a href="intro/vdoc-pro.md">vdoc-pro.md</a></td></tr>
+<tr><td>도입 효과</td><td><a href="intro/results.md">results.md</a></td></tr>
+<tr><td>대상 기관</td><td><a href="intro/target.md">target.md</a></td></tr>
+<tr><td>AITRICS 소개</td><td><a href="intro/aitrics.md">aitrics.md</a></td></tr>
+</tbody></table>
 
----
+## # 서비스 신청
 
-## V.Doc Pro 주요 기능
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>도입 신청하기</td><td><a href="apply/index.md">index.md</a></td></tr>
+<tr><td>회원가입 개요</td><td><a href="signup/README.md">README.md</a></td></tr>
+<tr><td>필요 서류</td><td><a href="signup/documents.md">documents.md</a></td></tr>
+</tbody></table>
 
-> V.Doc Pro는 진료 전·중·후를 하나로 연결하는 올인원 AI 클리니컬 솔루션입니다.
+## # 설치
 
-### 1. 사전 문진 — 진료 전 AI 준비
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>설치 개요</td><td><a href="install/index.md">index.md</a></td></tr>
+<tr><td>Cloud 설치</td><td><a href="install/cloud.md">cloud.md</a></td></tr>
+<tr><td>On-premise 설치</td><td><a href="install/on-premise.md">on-premise.md</a></td></tr>
+</tbody></table>
 
-* 환자가 진료 전날 집에서 카카오톡/SMS 링크를 통해 증상을 입력합니다.
-* AI가 진료과별 맞춤 추가 질문을 자동으로 생성합니다. 별도 앱 설치 없이 사용 가능합니다.
-* 병원 도착 후 QR 체크인으로 문진 데이터가 의사 화면에 자동 반영됩니다.
-* 11개 진료과에 특화된 문항을 지원하며, 병원 요청에 따라 커스터마이징이 가능합니다.
+## # 시작하기
 
-### 2. AI 문진 요약 — SOAP 자동 구성
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>역할 소개</td><td><a href="start/roles.md">roles.md</a></td></tr>
+<tr><td>시작 워크플로우</td><td><a href="start/workflow.md">workflow.md</a></td></tr>
+</tbody></table>
 
-* **Site** — 신체 다이어그램으로 증상 부위를 시각화합니다.
-* **C.C. / Onset / PHx / P.I.** — 주호소, 발생 시점, 과거력, 현병력을 SOAP 구조로 자동 정리합니다.
-* **AI 추천 의증** — MOCA 엔진이 감별 진단 목록을 제시합니다. (최종 진단은 의사가 결정)
-* 진료실 입장 전 30초 만에 환자 상태를 파악할 수 있습니다.
+## # 주요 기능
 
-### 3. 진료 중 녹음 · STT 요약
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>사전 문진</td><td><a href="features/questionnaire.md">questionnaire.md</a></td></tr>
+<tr><td>AI 문진 요약</td><td><a href="features/ai-summary.md">ai-summary.md</a></td></tr>
+<tr><td>음성 녹음 (STT)</td><td><a href="features/stt.md">stt.md</a></td></tr>
+<tr><td>템플릿</td><td><a href="features/template.md">template.md</a></td></tr>
+</tbody></table>
 
-* **진료 녹음 시작** 버튼 하나로 의사-환자 대화가 실시간 STT 처리됩니다.
-* 진단 내용, 처방 방향, 복약 지도가 자동으로 구조화되어 녹음 요약 탭에 정리됩니다.
-* 진료 저장 시 증상 요약 + 녹음 요약이 통합된 최종 노트가 저장됩니다.
+## # 메뉴 화면
 
-### 4. 진료 후 환자 맞춤 템플릿
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>로그인</td><td><a href="menu/login.md">login.md</a></td></tr>
+<tr><td>의사 화면</td><td><a href="menu/doctor/README.md">README.md</a></td></tr>
+<tr><td>간호사 화면</td><td><a href="menu/nurse/README.md">README.md</a></td></tr>
+</tbody></table>
 
-* 복약 안내, 주의사항, 다음 방문 일정이 담긴 맞춤 메시지를 환자에게 자동 전송합니다.
-* 진료과별·질환별 템플릿을 미리 설정해두면 진료 후 원클릭 전송이 가능합니다.
-* 카카오톡 우선 발송, SMS 대체 발송을 지원합니다.
+## # 관리자 설정
 
-### 5. 대시보드 — 진료 현황 한눈에
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>계정 관리</td><td><a href="admin/account.md">account.md</a></td></tr>
+<tr><td>템플릿 관리</td><td><a href="admin/template-management.md">template-management.md</a></td></tr>
+<tr><td>문진 설정</td><td><a href="admin/questionnaire-settings.md">questionnaire-settings.md</a></td></tr>
+<tr><td>감사 로그</td><td><a href="admin/audit.md">audit.md</a></td></tr>
+</tbody></table>
 
-* 오늘 예약 현황, 문진 완료율, 평균 대기 시간을 실시간으로 확인합니다.
-* 환자별 대기·진료중·완료 상태를 한눈에 모니터링합니다.
-* 일별·주별·월별 통계로 진료 흐름을 분석합니다.
+## # 도움말
 
----
-
-{% hint style="info" %}
-문의가 해결되지 않으셨나요? [도입 문의](help/contact.md) 페이지에서 상담을 신청해 주세요.
-{% endhint %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td>자주 묻는 질문 (FAQ)</td><td><a href="help/faq.md">faq.md</a></td></tr>
+<tr><td>문의하기</td><td><a href="help/contact.md">contact.md</a></td></tr>
+</tbody></table>
