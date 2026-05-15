@@ -25,7 +25,7 @@
   * [신청 서류 안내](signup/documents.md)
   * [관리자 (전산관리자)](signup/admin.md)
   * [의료진 (일반관리자)](signup/medical-staff.md)
-  * [간호사 / 어시스턴트](signup/nurse.md)
+  * [간호사 (매니저)](signup/nurse.md)
 
 ## 주요 기능 알아보기
 
