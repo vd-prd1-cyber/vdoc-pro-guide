@@ -29,7 +29,7 @@
 
 ## 주요 기능 알아보기
 
-* [사전 문진 (AI 예진)](features/questionnaire.md)
+* [진료 전 사전 문진(환자용)](features/questionnaire.md)
 * [AI 문진 요약](features/ai-summary.md)
 * [진료 중 녹음 · STT](features/stt.md)
 * [진료 후 템플릿](features/template.md)
