@@ -3,7 +3,7 @@ description: V.Doc Pro 공식 사용 가이드입니다.
 icon: none
 ---
 
-# V.Doc Pro 이용가이드
+# V.Doc Pro 사용 가이드
 
 ![](.gitbook/assets/gitbook_banner.png)
 
