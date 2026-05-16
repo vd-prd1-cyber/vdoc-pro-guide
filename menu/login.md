@@ -34,7 +34,7 @@ V.Doc Pro 콘솔은 **Chrome 브라우저에 최적화**되어 있습니다. Chr
 비밀번호 재설정이 안 될 경우 소속 병원 관리자에게 요청하거나, AITRICS 기술지원팀에 문의하세요.
 
 {% hint style="info" %}
-도입 문의는 [문의하기](../help/contact.md)를 이용해 주세요.
+AITRICS 기술팀 문의하기 → [문의하기](../help/contact.md)
 {% endhint %}
 
 ---
