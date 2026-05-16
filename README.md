@@ -1,5 +1,5 @@
 ---
-title:브이닥 프로 사용가이드
+title: 브이닥 프로 사용가이드
 description: V.Doc Pro 공식 사용가이드입니다.
 icon: none
 ---
