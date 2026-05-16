@@ -13,10 +13,6 @@ V.Doc Pro 콘솔은 **Chrome 브라우저에 최적화**되어 있습니다. Chr
 
 병원 코드는 도입 시 AITRICS 담당자가 별도 안내드립니다.
 
-{% hint style="info" %}
-도입 문의는 [문의하기](../help/contact.md)를 이용해 주세요.
-{% endhint %}
-
 ---
 
 ## 로그인 후 역할별 진입 화면
