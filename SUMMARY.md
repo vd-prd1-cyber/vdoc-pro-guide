@@ -1,6 +1,6 @@
 # Table of contents
 
-* [브이닥 프로(V.Doc Pro) 사용 안내](README.md)
+* [브이닥 프로(V.Doc Pro) 사용 가이드](README.md)
 
 ## 브이닥 프로 소개
 

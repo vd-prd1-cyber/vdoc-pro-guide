@@ -1,9 +1,9 @@
 ---
-description: 브이닥 프로(V.Doc Pro)의 공식 사용 안내서 입니다.
+description: 브이닥 프로(V.Doc Pro)의 공식 사용 가이드 입니다.
 icon: book-arrow-right
 ---
 
-# 브이닥 프로(V.Doc Pro) 사용 안내
+# 브이닥 프로(V.Doc Pro) 사용 가이드
 
 <figure><img src=".gitbook/assets/gitbook_banner (1).png" alt=""><figcaption></figcaption></figure>
 
