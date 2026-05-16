@@ -54,9 +54,6 @@
 
 * [템플릿 활성화 · 즐겨찾기 설정](undefined-9/template-management.md)
 
-## 문진 설정
-
-* [문진 설정](undefined-10/questionnaire-settings.md)
 
 ## 대시보드
 
