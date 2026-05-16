@@ -1,76 +1,71 @@
-# Table of contents
-
-* [브이닥프로 사용 가이드](README.md)
+# V.Doc Pro 이용가이드
 
 ## 브이닥 프로 소개
 
 * [브이닥 프로란?](intro/vdoc-pro.md)
-* [이런 클리닉에 맞습니다](intro/target.md)
-* [도입 효과](intro/results.md)
-* [AITRICS 소개](intro/aitrics.md)
+* [진료 흐름 한눈에 보기](intro/workflow.md)
 
 ## 시작하기
 
-* [전체 사용 흐름](start/workflow.md)
-* [역할별 시작 가이드](start/roles.md)
-
-## 브이닥 프로 신청하기
-
 * [서비스 신청하기](apply/index.md)
-* [브이닥 프로 설치하기](install/README.md)
-  * [Cloud 설치](install/cloud.md)
-  * [On-premise 설치](install/on-premise.md)
-* [회원가입](signup/README.md)
-  * [V.Doc Cloud 회원가입](signup/cloud.md)
   * [신청 서류 안내](signup/documents.md)
-  * [관리자 (전산관리자)](signup/admin.md)
-  * [의료진 (일반관리자)](signup/medical-staff.md)
-  * [간호사 (매니저)](signup/nurse.md)
+* [회원가입하기](signup/cloud.md)
+* [계정 안내](signup/README.md)
+  * [대표 관리자 (원장님)](signup/admin.md)
+  * [의사](signup/medical-staff.md)
+  * [간호사 · 매니저](signup/nurse.md)
+* [로그인하기](menu/login.md)
 
-## 주요 기능 알아보기
+## 준비하기
 
-* [진료 전 사전 문진(환자용)](features/questionnaire.md)
-* [AI 사전 문진 요약](features/ai-summary.md)
-* [진료 중 녹음 · STT](features/stt.md)
-* [진료 후 맞춤 템플릿 발송](features/template.md)
+* [주요 화면 살펴보기](menu/README.md)
+  * [진료화면 (의사용)](menu/doctor/README.md)
+  * [오늘현황 (간호사용)](menu/nurse/today.md)
+  * [환자관리 (간호사용)](menu/nurse/README.md)
+* [알림 설정하기](setup/notification.md)
 
-## 주요 메뉴 알아보기
+## 진료하기
 
-* [로그인](menu/login.md)
-* [진료 화면 (의사용)](menu/doctor/README.md)
-  * [전체 모드](menu/doctor/full-mode.md)
-  * [미니 모드](menu/doctor/mini-mode.md)
-* [진료 관리 화면 (간호사용)](menu/nurse/README.md)
-  * [오늘 현황](menu/nurse/today.md)
-  * [환자 관리](menu/nurse/patients.md)
-  * [환자 목록](menu/nurse/list.md)
+* [진료 전 · 문진 요약 확인하기](consult/pre-consult.md)
+* [진료 전 · 첨부 서류 (OCR) 확인하기](consult/during-ocr.md)
+* [진료 중 · 녹음 & STT 사용하기](consult/during-recording.md)
+* [진료 후 · 템플릿 발송하기](consult/after-template.md)
 
-## 맞춤 설정
+## 오늘 현황
 
-* [템플릿 설정](settings/template.md)
-* [사전 문진 설정](settings/questionnaire.md)
+* [오늘 현황 보기](overview/today.md)
+
+## 환자 관리
+
+* [환자 관리하기](overview/patients.md)
+
+## 환자 목록
+
+* [환자 목록 조회하기](overview/patient-list.md)
+
+## 환자 사전 문진 안내
+
+* [환자 문진 흐름 안내하기](patient-questionnaire/index.md)
+* [QR 접수 방법](patient-questionnaire/qr-checkin.md)
+
+## 템플릿 설정
+
+* [템플릿 활성화 · 즐겨찾기 설정](admin/template-management.md)
+
+## 문진 설정
+
+* [문진 설정](admin/questionnaire-settings.md)
+
+## 대시보드
+
+* [대시보드 (통계)](dashboard/index.md)
 
 ## 관리자 설정
 
 * [계정 · 권한 관리](admin/account.md)
-* [환자 목록 관리](admin/patients.md)
-* [문진 설정](admin/questionnaire-settings.md)
-* [템플릿 관리](admin/template-management.md)
 * [감사 기록](admin/audit.md)
-
-## 대시보드 (통계)
-
-* [대시보드](dashboard/index.md)
-
-## 진료과별 활용 가이드
-
-* [진료과별 활용 가이드](depts/overview.md)
-
-## 사전 문진 (환자용)
-
-* [사전 문진 안내](patient-questionnaire/index.md)
 
 ## 도움말
 
 * [자주 묻는 질문 (FAQ)](help/faq.md)
-* [도움말 및 도입 문의](help/contact.md)
+* [문의하기](help/contact.md)
