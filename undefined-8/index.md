@@ -19,7 +19,7 @@
 예약 완료 후 카카오 알림톡으로 사전 문진 링크가 자동 발송됩니다.\
 환자는 병원 방문 전 스마트폰으로 문진을 완료하고, 당일 접수처 앞 QR 스캔으로 접수합니다.
 
-![](<../.gitbook/assets/screen-patient-questionnaire-1.png>)
+![](<../.gitbook/assets/screen-patient-questionnaire.png>)
 
 1. 온라인 진료 예약 완료
 2. 예약 확인 카카오 알림톡에 **교수님별 고유 URL** 첨부 발송
@@ -37,7 +37,6 @@
 
 방문 전 링크 문진을 완료하지 못한 경우, 접수처 앞 QR 스탠드를 스캔하여 현장에서 문진을 진행합니다.
 
-![](<../.gitbook/assets/screen-patient-questionnaire-2.png>)
 
 1. 접수처 앞 QR 스탠드 스캔
 2. 모바일에서 사전 문진 처음부터 작성
