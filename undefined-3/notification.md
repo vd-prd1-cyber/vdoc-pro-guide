@@ -3,7 +3,7 @@
 V.Doc Pro는 환자의 **사전 문진이 완료되면 PC 메신저 알림**으로 즉시 알려드립니다.\
 알림이 정상적으로 수신되려면 Windows PC 시스템 설정을 아래와 같이 확인해 주세요.
 
-![](<../.gitbook/assets/screen-settings.png>)
+![](<../.gitbook/assets/screen-notification.png>)
 
 ---
 
