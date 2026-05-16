@@ -1,5 +1,5 @@
 ---
-description: aitrics의 AI 클리니컬 코파일럿 V.Doc Pro 공식 이용가이드입니다.
+description: V.Doc Pro 공식 사용 가이드입니다.
 icon: none
 ---
 
