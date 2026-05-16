@@ -5,7 +5,7 @@ icon: none
 
 # V.Doc Pro 이용가이드
 
-![](.gitbook/assets/banner.jpg)
+![](.gitbook/assets/gitbook_banner.png)
 
 {% hint style="info" %}
 V.Doc Pro는 **크롬 브라우저**에 최적화되어 있습니다. 크롬으로 이용해 주세요.
