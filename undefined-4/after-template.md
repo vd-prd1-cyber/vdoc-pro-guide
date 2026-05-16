@@ -8,7 +8,9 @@
 진료가 끝난 후 환자에게 맞는 안내 템플릿을 선택하여 카카오 메시지로 발송할 수 있습니다.\
 1회 최대 **3개**까지 선택하여 동시에 발송할 수 있습니다.
 
-![](<../.gitbook/assets/screen-template-send.png>)
+![](<../.gitbook/assets/screen-template-send1.png>)
+
+![](<../.gitbook/assets/screen-template-send2.png>)
 
 ---
 
