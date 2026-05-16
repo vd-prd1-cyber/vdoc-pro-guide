@@ -1,9 +1,10 @@
 ---
-description: aitrics의 AI 클리니컬 코파일럿 V.Doc Pro 공식 이용가이드입니다.
+title:브이닥 프로 사용가이드
+description: V.Doc Pro 공식 사용가이드입니다.
 icon: none
 ---
 
-# V.Doc Pro 이용가이드
+# V.Doc Pro 사용가이드
 
 ![](.gitbook/assets/gitbook_banner.png)
 
