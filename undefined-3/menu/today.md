@@ -3,6 +3,8 @@
 오늘 현황 화면에서 당일 진료 흐름 전체를 실시간으로 확인합니다.\
 의사별 진료 현황을 한눈에 파악하고, 환자 카드 상태를 관리합니다.
 
+<figure><img src="../../.gitbook/assets/screen-today-N (1).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 화면 구성

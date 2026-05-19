@@ -4,6 +4,10 @@
 
 ***
 
+<figure><img src="../../.gitbook/assets/screen-patients-daily.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/screen-template-send2.png" alt=""><figcaption></figcaption></figure>
+
 ## 주요 메뉴
 
 | 메뉴                                        | 기능                            |
