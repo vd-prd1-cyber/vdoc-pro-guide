@@ -26,3 +26,4 @@ description: V.Doc Pro를 사용하는 세 가지 역할별 진료 흐름을 안
 
 <figure><img src="../.gitbook/assets/screen-flow-manager.png" alt=""><figcaption></figcaption></figure>
 
+각 화면의 자세한 설명은 아래 가이드를 참고하세요.
