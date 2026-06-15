@@ -50,9 +50,11 @@
 * [환자 문진 흐름 안내하기](undefined-8/index.md)
 * [QR 접수 방법](undefined-8/qr-checkin.md)
 
+<!--
 ## 템플릿 설정
 
 * [템플릿 활성화 · 즐겨찾기 설정](undefined-9/template-management.md)
+-->
 
 
 ## 대시보드
