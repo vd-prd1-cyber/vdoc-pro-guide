@@ -4,7 +4,7 @@
 V.Doc Pro 콘솔은 **Chrome 브라우저에 최적화**되어 있습니다. Chrome 최신 버전을 사용해 주세요.
 {% endhint %}
 
-![](/broken/files/NYbHgmJJuR0IOkXDKh1n)
+![](../.gitbook/assets/S0_login.png)
 
 ***
 
@@ -15,7 +15,7 @@ V.Doc Pro 콘솔은 **Chrome 브라우저에 최적화**되어 있습니다. Chr
 3. **아이디(이메일)** 및 **비밀번호** 입력
 4. **로그인** 클릭
 
-병원 코드는 도입 시 aitrics 담당자가 별도 안내드립니다.
+병원 코드는 도입 시 담당자가 별도 안내드립니다.
 
 ***
 
