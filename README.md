@@ -5,7 +5,7 @@ description: V.Doc Pro 공식 사용가이드입니다.
 
 # 브이닥 프로 사용가이드
 
-![](.gitbook/assets/gitbook_banner.png)
+![](<.gitbook/assets/gitbook_banner (1).png>)
 
 {% hint style="info" %}
 V.Doc Pro는 **크롬 브라우저**에 최적화되어 있습니다. 크롬으로 이용해 주세요.
@@ -39,7 +39,7 @@ V.Doc Pro는 **크롬 브라우저**에 최적화되어 있습니다. 크롬으�
 
 ## 템플릿 설정 · 문진 설정 · 대시보드
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>템플릿 활성화 · 즐겨찾기 설정</td><td><a href="undefined-9/template-management.md">template-management.md</a></td></tr><tr><td>문진 설정</td><td><a href="undefined-10/questionnaire-settings.md">questionnaire-settings.md</a></td></tr><tr><td>대시보드 (통계)</td><td><a href="dashboard/index.md">index.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>템플릿 활성화 · 즐겨찾기 설정</td><td><a href="https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/undefined-9/template-management.md">https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/undefined-9/template-management.md</a></td></tr><tr><td>문진 설정</td><td><a href="https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/undefined-10/questionnaire-settings.md">https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/undefined-10/questionnaire-settings.md</a></td></tr><tr><td>대시보드 (통계)</td><td><a href="https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/dashboard/index.md">https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/dashboard/index.md</a></td></tr></tbody></table>
 
 ## 관리자 설정
 

@@ -26,6 +26,6 @@
 
 V.Doc Pro는 진료 환경에 맞게 두 가지 모드를 제공합니다.
 
-<table><thead><tr><th width="157.8515625">모드</th><th>특징</th><th>적합한 환경</th></tr></thead><tbody><tr><td><a href="../../menu/doctor/full-mode.md"><strong>전체 모드</strong></a></td><td>모든 기능을 하나의 넓은 화면에서 사용</td><td>전용 모니터가 있는 진료실</td></tr><tr><td><a href="../../menu/doctor/mini-mode.md"><strong>미니 모드</strong></a></td><td>작은 창으로 EMR과 나란히 사용</td><td>EMR 화면과 함께 사용할 때</td></tr></tbody></table>
+<table><thead><tr><th width="157.8515625">모드</th><th>특징</th><th>적합한 환경</th></tr></thead><tbody><tr><td><a href="https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/menu/doctor/full-mode.md"><strong>전체 모드</strong></a></td><td>모든 기능을 하나의 넓은 화면에서 사용</td><td>전용 모니터가 있는 진료실</td></tr><tr><td><a href="https://github.com/vd-prd1-cyber/vdoc-pro-guide/blob/main/menu/doctor/mini-mode.md"><strong>미니 모드</strong></a></td><td>작은 창으로 EMR과 나란히 사용</td><td>EMR 화면과 함께 사용할 때</td></tr></tbody></table>
 
 진료 화면 우측 상단의 **"미니 모드"** 버튼으로 언제든지 전환할 수 있습니다.
